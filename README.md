@@ -1,6 +1,6 @@
 # Spotify-Playlist-Generator
 The creation of a playlist base on the billboard Top 100 of any given date.
-This project involves website scrapping for the Billboard Top 100 website and using Spotify API.
+This project involves website scraping for the Billboard Top 100 website and using Spotify API.
 One of the requirement for this project is to set up an account with spotify development.
 
 
